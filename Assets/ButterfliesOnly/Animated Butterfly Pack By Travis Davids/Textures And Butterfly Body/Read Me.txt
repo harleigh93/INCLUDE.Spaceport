@@ -1,0 +1,13 @@
+All required files to follow along with the tutorial are included in this folder. 
+
+Only open the Blender 2.80 folder if you plan on using a .PNG image in blender to setup the diffuse and opacity. 
+
+For the tutorial you just need the main DIFFUSE, ALPHA OR OPACITY MASK AND THE NORMAL MAP.
+
+The Basic Butterfly Body is included as well and is provided in .OBJ format. 
+
+There's also a very basic textured map for the butterflies body if you want to use it. 
+
+I've included the original Morpho Didius image as well in case you wanted to see it. 
+
+ENJOY!
