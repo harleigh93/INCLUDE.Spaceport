@@ -3,6 +3,24 @@
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "WindowsMixedReality",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"HoloLens"
+			]
+		},
+		{
+			"Name": "OculusAvatar",
+			"Enabled": true
+		},
+		{
+			"Name": "SimpleHMD",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
