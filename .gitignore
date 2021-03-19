@@ -1,4 +1,6 @@
 #Ignore directories
 SpaceportVRProject/Intermediate
 SpaceportVRProject/Saved
+
+#Ignore Harleigh's local directory on her computer for storing assets
 Assets/
