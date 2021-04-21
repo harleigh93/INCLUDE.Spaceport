@@ -7,7 +7,8 @@
 
 Plants:
 ---
-
+"Coffee Sack Group Asset" (https://skfb.ly/6WNXZ) by ferofluid is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+Above asset "Coffee Sack Group Asset" was edited: All but one sack was removed. Coffee Bean texture was replaced with dirt texture in the game.
 
 
 
