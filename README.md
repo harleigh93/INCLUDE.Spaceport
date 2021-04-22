@@ -1,8 +1,6 @@
 # INCLUDE.Spaceport
 UAH's 2020-2021 INCLUDE project answering the Grand Challenge of getting society interested in commercial space travel. This is the Repository of the CODE and ASSETS used to make the program. This is not the final Public Executable. Find the Public Program here: https://github.com/harleigh93/INCLUDE-VRSpaceport
 
-# INCLUDE-VRSpaceport
-Public Executable of the **INCLUDE VR Spaceport Project** free for download. TBA.
 ![HUB_Screenshot01](https://user-images.githubusercontent.com/43096972/115787657-2bc2d280-a388-11eb-9a2b-4c046cbba953.png)
 *Screenshot within Unreal Engine 4 of the Spaceport HUB, modeled and dressed by Elizabeth Berhow.*
 
