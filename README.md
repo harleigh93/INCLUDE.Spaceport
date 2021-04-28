@@ -1,7 +1,7 @@
 # INCLUDE.Spaceport
 UAH's 2020-2021 INCLUDE project answering the Grand Challenge of getting society interested in commercial space travel. This is the Repository of the CODE and ASSETS used to make the program. This is not the final Public Executable. Find the Public Program here: https://github.com/harleigh93/INCLUDE-VRSpaceport
 
-![HUB_Screenshot01](https://user-images.githubusercontent.com/43096972/115787657-2bc2d280-a388-11eb-9a2b-4c046cbba953.png)
+![HUB_Render01](https://user-images.githubusercontent.com/43096972/116470259-c9128080-a838-11eb-8f83-a3c8360c60c5.png)
 *Screenshot within Unreal Engine 4 of the Spaceport HUB, modeled and dressed by Elizabeth Berhow.*
 
 # Project Description
@@ -21,7 +21,7 @@ UAH's 2020-2021 INCLUDE project answering the Grand Challenge of getting society
 * **Darrin Burnett** (Dynetics)
 * **Tony Lindeman** (Dynetics)
 * **Robert Moreland** (NASA)
-* *Special Thanks to Executive Chef Jens Dahlmann.*
+* *Special Thanks to Executive Chef Jens Dahlmann, for taking time out of your busy schedule to talk to university students about supply-chain management; to Diane and Tony, for guiding us on airport development. And a big Special Thanks to Tom Acomb, for teaching us about telling an effective story.*
 
 
 # 2020-2021 INCLUDE Team Alpha Members
@@ -63,9 +63,12 @@ UAH's 2020-2021 INCLUDE project answering the Grand Challenge of getting society
 * **Madison Travis**
   * LinkedIn: https://www.linkedin.com/in/madison-travis/
 
-![Screenshots-VR_0003_Layer-15](https://user-images.githubusercontent.com/43096972/115787812-60cf2500-a388-11eb-97ab-845759d924d0.png)
+# Feedback
+If you are able and willing, we'd love to hear if you experienced any bugs. The Google Forum is set to not collect email addresses: https://forms.gle/dtGaskc5ECNJNTgn8
+
+![Classroom_Render02](https://user-images.githubusercontent.com/43096972/116470279-d0d22500-a838-11eb-9664-7ce99ddec102.png)
 *Screenshot within Unreal Engine 4 of the Spaceport Classroom, dressed by Harleigh Bass.*
 
 
 # **"INCLUDE-VRSpaceport" © 2021 Harleigh Bass, Elizabeth Berhow**
-**Special Thanks to Vinny Argentina, for always believing in me and keeping my head on straight.**
+**Special Thanks to Vinny Argentina, for always believing in us and keeping our heads on straight. Thank you for all you do, for inspiring us, and for your tremendous support on this project.**
