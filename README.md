@@ -36,9 +36,9 @@ UAH's 2020-2021 INCLUDE project answering the Grand Challenge of getting society
 
 
 # 2020-2021 Academic Mentors
-* **Bryan Mesmer** (ISEEM)
-* **Nicholas Loyd** (ISEEM)
-* **Kristin Weger** (Psychology)
+* **Dr. Bryan Mesmer** (ISEEM)
+* **Dr. Nicholas Loyd** (ISEEM)
+* **Dr. Kristin Weger** (Psychology)
 * **Vinny Argentina** (Art & Animation)
 
 
